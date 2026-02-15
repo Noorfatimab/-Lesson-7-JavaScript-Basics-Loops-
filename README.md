@@ -12,3 +12,6 @@ This project introduces loops in JavaScript to perform repeated actions.
 - index.html – Webpage structure
 - script.js – JavaScript logic
 - README.md – Project explanation
+
+## View live website at this link:
+ https://noorfatimab.github.io/-Lesson-7-JavaScript-Basics-Loops-/ 
